@@ -6,4 +6,4 @@ MainActivity.java contains several functions such as getPosts(), getComments(), 
 Screenshot of getPost() method that fetches all the post with UserId 1.
 
 
-![](image/getPost.png)
+![](image/getPost.jpg)
